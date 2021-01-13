@@ -17,7 +17,7 @@
 		"express": "^4.17.1",
 		"express-ws": "^4.0.0",
 		"is-mobile": "^2.1.0",
-		"mongoose": "^5.7.1",
+		"mongoose": "^5.7.5",
 		"mongoose-auto-increment-reworked": "^1.2.1",
 		"mongoose-long": "^0.2.1",
 		"node-telegram-bot-api": "^0.30.0",
